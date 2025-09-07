@@ -11,3 +11,19 @@ This is my PF-Lab-03-25K-0530 repository's READ.me file.
 **Languages:** Python, C++, Java, Ruby\
 **Interests:** Web Development, Data Structures & algorithms, AI & Machine Learning\
 **Hobbies:** Problem-Solving, coding challenges, exploring tech trends.
+
+# About This Repository <!-- Heading -->
+
+This repository is for **_Lab 03 GitHub practice_**.
+
+## Tasks Completed
+
+### Ordered List 
+1. Created a new branch 'lab03-branch'
+2. Added 'aboutme.md'
+3. Opened a Pull Request and merged into 'main'
+
+### Unordered List 
+- Contains personal details in 'aboutme.md'
+- Shows commit messages
+- Demonstrates Markdown formatting
